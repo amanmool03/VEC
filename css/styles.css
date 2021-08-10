@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+     font-family: open sans, sans-serif;
+
+
+
+}
+
+
+:root {
+    --mainBG: #D2E6E4;
+    --btnBG: #17664E;
+    --gradientBG: linear-gradient(91.51deg, rgba(23, 102, 78, 0.5) -4.3%, rgba(23, 102, 78, 0.1) 103.87%);
+    --black: #000000;
+    --lightBlack: #2b2b2b;
+
+
+}
